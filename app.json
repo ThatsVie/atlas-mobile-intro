@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "expo-intro",
+    "name": "expo-intro-vp",
     "slug": "expo-intro",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -32,7 +32,9 @@
           "resizeMode": "contain",
           "backgroundColor": "#ffffff"
         }
-      ]
+      ],
+      "expo-sqlite",
+      "expo-asset"
     ],
     "experiments": {
       "typedRoutes": true
