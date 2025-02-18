@@ -97,7 +97,7 @@ While setting up the project, I encountered a network connectivity issue when tr
    - Verified that my computer’s firewall was not blocking port `8081`.
 
 2. **Using Tunnel Mode:**  
-   When accessing the local IP (`http://172.25.115.237:8081`) from my phone did not work, I switched to tunnel mode:
+   When accessing the local IP from my phone did not work, I switched to tunnel mode:
    ```bash
    npx expo start --tunnel
    ```
