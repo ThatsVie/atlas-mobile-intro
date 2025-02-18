@@ -356,3 +356,7 @@ While setting up the project, I encountered a network connectivity issue when tr
 This project was my first formal foray into mobile app development, and it challenged me to adapt my web development skills to the mobile context. I gained experience with Expo and React Native, particularly in integrating a local SQLite database and implementing gesture-based interactions, a stark contrast to using media queries and responsive design in web development. Navigating the nuances of mobile routing and ensuring accessibility across different devices deepened my understanding of user experience on smaller screens. I learned how to leverage context providers and custom hooks in a mobile environment, and I appreciated the importance of haptic feedback and subtle animations to enhance interactivity and user satisfaction.
 
 ---
+
+With love, 
+<br>
+**[Vie P.](https://whatdoyouknowaboutlove.com/viepaula/)**
