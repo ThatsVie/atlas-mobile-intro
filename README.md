@@ -3,7 +3,8 @@
 
 # Step Tracker App - React Native Intro
 
-</div>
+![joggerpug](https://github.com/user-attachments/assets/07c54dc4-39a2-4e7f-8892-f3f01d68ba30)
+
 
 ## Project Overview
 
@@ -11,6 +12,8 @@ This project is a **Step Tracker App** built with React Native using Expo. The a
 
 **Project Figma Design:**  
 [View Figma Design](https://www.figma.com/design/ZHvv7unpirr4GZsbssLNGz/Atlas-Mobile-Intro?node-id=0-1&p=f&t=Z7TKD58ZhTtL1ml4-0)
+
+</div>
 
 ---
 
