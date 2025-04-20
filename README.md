@@ -359,4 +359,4 @@ This project was my first formal foray into mobile app development, and it chall
 
 With love, 
 <br>
-**[Vie P.](https://whatdoyouknowaboutlove.com/viepaula/)**
+**[Vie P.](https://whatdoyouknowaboutlove.com/viep)**
